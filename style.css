@@ -1,7 +1,7 @@
 body{
 	font-family: sans-serif;
 	font-size: 16px;
-	background-color: #4C5899;
+	background-color: #525FA6;
 	color: black;
 }
 table{
@@ -39,13 +39,13 @@ th, td{
 	border: 2px solid;
 	text-align: center;
 	padding: 10px;
-	border-color: #665500;
+	border-color: #7F6A00;
 }
 th{
 	border-top: 4px solid;
 	border-bottom: 4px solid;
 	width: 42px;
-	border-color: #665500;
+	border-color: #7F6A00;
 }
 th.levels{
 	width: 92px;
