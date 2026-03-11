@@ -1,7 +1,7 @@
 body{
 	font-family: sans-serif;
 	font-size: 16px;
-	background-color: #525FA6;
+	background-color: #5258A6;
 	color: black;
 }
 table{
@@ -9,7 +9,7 @@ table{
 	background-color: #FFE866;
 }
 td.header, td.subheader, td.intro, td.calculator, td.table{
-	border: 12px solid #E6670C;
+	border: 12px solid #DA610B;
 	border-left-width: 50px;
 	border-right-width: 50px;
 }
